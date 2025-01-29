@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Mpho+Manaka;Software+Developer)](https://git.io/typing-svg)
 <!--
-**JonathanManaka/jonathanManaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JonathanManaka/jonathanManaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
