@@ -34,5 +34,6 @@
 
 ## Learning 📚🎓🧠
 <image src="https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347" width="50" height="50">
+<image src="https://github.com/user-attachments/assets/c1ca0dcc-db64-4b83-a17f-6e36906a2684" width="50" height="50">
 
 
