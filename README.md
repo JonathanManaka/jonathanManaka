@@ -35,10 +35,10 @@
   <image src="https://github.com/user-attachments/assets/f375646a-e8c2-47bf-8a5e-b2a83cb33ccf" width="50" height="50">
 </div>
 
-## Learning 📚🎓🧠
+## Learning 📚🎓🧠 <image src="https://github.com/user-attachments/assets/71040a04-276a-4306-a69f-63b9695b0c65" width="65" height="50">
 <image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="50" height="50">
 <image src="https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347" width="50" height="50">
-<image src="https://github.com/user-attachments/assets/71040a04-276a-4306-a69f-63b9695b0c65" width="65" height="50">
+
 
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+your+visit🙏)](https://git.io/typing-svg)
