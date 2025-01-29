@@ -1,4 +1,4 @@
-## Hello world, I'm Mpho Manaka 🐧
+![docker-original-wordmark](https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347)## Hello world, I'm Mpho Manaka 🐧
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a messaging mobile application
@@ -10,7 +10,7 @@
 ## My stack 🧰
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="50" height="50">
+  <div style="display: flex; flex-direction: column"><image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="50" height="50"> <p>JavaScript</p></div>
   <image src="https://github.com/user-attachments/assets/2205dd32-2f2a-4154-9d6a-bb0d9a3905ab" width="50" height="50" margin: 100>
   <image src="https://github.com/user-attachments/assets/5eb18fdc-5ab4-46f8-95b4-5da9cfad9cc6" width="50" height="50"  marginLeft: 25>
   <image src="https://github.com/user-attachments/assets/54fbb9b4-7e17-40f2-b831-53c963fd7cac" width="50" height="50"  marginLeft: 25>
@@ -33,5 +33,6 @@
   <image src="https://github.com/user-attachments/assets/f375646a-e8c2-47bf-8a5e-b2a83cb33ccf" width="50" height="50">
 </div>
 
+## Learning 📚🎓🧠
 
 
