@@ -9,7 +9,7 @@
   
 ## Skills & Tools I enjoy using 🧰
 
-<image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="15" height="15">
+<image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="25" height="25">
 
 
 
