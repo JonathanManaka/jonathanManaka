@@ -9,7 +9,7 @@
   
 ## My stack 🧰
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+
   <div style="display: flex; flex-direction: column"><image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="50" height="50">         <p>JavaScript</p</div>
   <div style="display: flex; flex-direction: column"><image src="https://github.com/user-attachments/assets/2205dd32-2f2a-4154-9d6a-bb0d9a3905ab" width="50" height="50" margin: 100> <p>JavaScript</p</div>
   <div style="display: flex; flex-direction: column"><image src="https://github.com/user-attachments/assets/5eb18fdc-5ab4-46f8-95b4-5da9cfad9cc6" width="50" height="50"  marginLeft: 25> <p>JavaScript</p</div>
@@ -19,9 +19,6 @@
   <div style="display: flex; flex-direction: column"><image src="https://github.com/user-attachments/assets/89d77f81-5df9-4f2f-8cc4-20f46301eba8" alt="flutter" width="50" height="50"  marginLeft: 25><p>JavaScript</p</div>
   <div style="display: flex; flex-direction: column"><image src="https://github.com/user-attachments/assets/eadc8c2a-891a-4e4e-9283-e61952a34e37" alt="flutter" width="70" height="70"  marginLeft: 25><p>JavaScript</p</div>
   
-  
-
-</div>
 
 ##
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
