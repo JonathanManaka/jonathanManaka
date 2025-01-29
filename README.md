@@ -9,7 +9,7 @@
   
 ## My stack 🧰
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 200 ">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="50" height="50">
   <image src="https://github.com/user-attachments/assets/2205dd32-2f2a-4154-9d6a-bb0d9a3905ab" width="50" height="50" marginLeft: 100>
   <image src="https://github.com/user-attachments/assets/5eb18fdc-5ab4-46f8-95b4-5da9cfad9cc6" width="50" height="50"  marginLeft: 25>
@@ -21,4 +21,9 @@
 
 </div>
 
+##
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <image src="https://github.com/user-attachments/assets/835f764c-9b49-4dc1-9301-c27628e1a2e6" width="50" height="50">
+  
 
+</div>
