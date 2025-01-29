@@ -1,4 +1,4 @@
-![docker-original-wordmark](https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347)## Hello world, I'm Mpho Manaka 🐧
+## Hello world, I'm Mpho Manaka 🐧
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a messaging mobile application
@@ -36,5 +36,6 @@
 </div>
 
 ## Learning 📚🎓🧠
+<image src="https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347" width="50" height="50">
 
 
