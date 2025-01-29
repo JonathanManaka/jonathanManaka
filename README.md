@@ -9,5 +9,6 @@
   
 ## Skills & Tools I enjoy using 🧰
 ![javascript-original](https://github.com/user-attachments/assets/628ce4d2-f4fa-4968-a4fb-d290f41bfe0a)
+![figma-original](https://github.com/user-attachments/assets/13e2b60d-af21-497a-9cbc-512f67c34e4c)
 
 
