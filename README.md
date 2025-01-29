@@ -1,4 +1,4 @@
-![default](https://github.com/user-attachments/assets/eadc8c2a-891a-4e4e-9283-e61952a34e37)## Hello world, I'm Mpho Manaka 🐧
+## Hello world, I'm Mpho Manaka 🐧
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a messaging mobile application
