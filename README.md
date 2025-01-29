@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/mphomanaka/ or Mphojmanaka@gmail.com
   
 ## Skills & Tools I enjoy using 🧰
-<image source="![javascript-original](https://github.com/user-attachments/assets/628ce4d2-f4fa-4968-a4fb-d290f41bfe0a)" width: 15 height:15>
+<image source="![javascript-original](https://github.com/user-attachments/assets/628ce4d2-f4fa-4968-a4fb-d290f41bfe0a)" width="15" height="15">
 ![figma-original](https://github.com/user-attachments/assets/13e2b60d-af21-497a-9cbc-512f67c34e4c)
 
 
