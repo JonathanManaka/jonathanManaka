@@ -1,5 +1,5 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Mpho+Manaka;Software+Developer)](https://git.io/typing-svg)
+## Hello world, I'm Mpho Manaka 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Continuous+Learner)](https://git.io/typing-svg)
 <!--
 **JonathanManaka/jonathanManaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
