@@ -9,6 +9,7 @@
   
 ## My stack 🧰
 
+
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <image src="https://github.com/user-attachments/assets/095de2bf-46c4-47c4-a51a-ab8c4fb43c11" width="50" height="50">
   <image src="https://github.com/user-attachments/assets/2205dd32-2f2a-4154-9d6a-bb0d9a3905ab" width="50" height="50" margin: 100>
@@ -26,6 +27,7 @@
    <image src="https://github.com/user-attachments/assets/20b2ded1-fe81-4bf0-8a95-6a9e40abe488" width="50" height="50">
    <image src="https://github.com/user-attachments/assets/e0c11d65-bbdb-4aeb-824f-9888f9f4b09e" width="50" height="50">
    <image src="https://github.com/user-attachments/assets/0c2aad9c-23ab-4e1f-a282-6bdda53f6afc" width="50" height="50">
+      <image src="https://github.com/user-attachments/assets/7b535a36-7604-4697-8507-a78ec5f2d2f9" width="50" height="50">
   <image src="https://github.com/user-attachments/assets/25b9f309-428b-4569-94a5-1c6305c1eb79" width="50" height="50">
 <image src="https://github.com/user-attachments/assets/e1a0b201-bf5e-4222-b229-6265d5d412d9" width="50" height="50">
   <image src="https://github.com/user-attachments/assets/5455c34a-f65c-4b0c-8002-c95652e48af2" width="50" height="50">
