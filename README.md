@@ -21,7 +21,7 @@
      <image src="https://github.com/user-attachments/assets/eadc8c2a-891a-4e4e-9283-e61952a34e37" alt="flutter" width="70" height="70"  marginLeft: 25>
 </div>
 
-##
+
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <image src="https://github.com/user-attachments/assets/835f764c-9b49-4dc1-9301-c27628e1a2e6" width="50" height="50">
    <image src="https://github.com/user-attachments/assets/20b2ded1-fe81-4bf0-8a95-6a9e40abe488" width="50" height="50">
@@ -38,7 +38,8 @@
 ## Learning 📚🎓🧠
 <image src="https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347" width="50" height="50">
 <image src="https://github.com/user-attachments/assets/c1ca0dcc-db64-4b83-a17f-6e36906a2684" width="65" height="50">
-## 
+
+##
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Design+is+no+just+what+it+looks+like+and+feels+like.+Design+is+how+it+works:+Design+is+more+than+just+how+something+looks,+it's+how+it+functions+~Steve+Jobs".;Thank+you+for+your+visit🙏)](https://git.io/typing-svg)
 
 
