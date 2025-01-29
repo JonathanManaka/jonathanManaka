@@ -38,6 +38,7 @@
 ## Learning 📚🎓🧠
 <image src="https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347" width="50" height="50">
 <image src="https://github.com/user-attachments/assets/c1ca0dcc-db64-4b83-a17f-6e36906a2684" width="65" height="50">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Design+is+no+just+what+it+looks+like+and+feels+like.+Design+is+how+it+works:+Design+is+more+than+just+how+something+looks,+it's+how+it+functions+~Steve+Jobs". ;Thank you for your visit🙏)](https://git.io/typing-svg)
+## 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Design+is+no+just+what+it+looks+like+and+feels+like.+Design+is+how+it+works:+Design+is+more+than+just+how+something+looks,+it's+how+it+functions+~Steve+Jobs".;Thank+you+for+your+visit🙏)](https://git.io/typing-svg)
 
 
