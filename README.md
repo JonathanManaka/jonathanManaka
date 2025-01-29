@@ -1,4 +1,4 @@
-![javascript-original](https://github.com/user-attachments/assets/628ce4d2-f4fa-4968-a4fb-d290f41bfe0a)## Hello world, I'm Mpho Manaka 🐧
+## Hello world, I'm Mpho Manaka 🐧
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a messaging mobile application
@@ -8,6 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/mphomanaka/ or Mphojmanaka@gmail.com
   
 ## Skills & Tools I enjoy using 🧰
-
+![javascript-original](https://github.com/user-attachments/assets/628ce4d2-f4fa-4968-a4fb-d290f41bfe0a)
 
 
