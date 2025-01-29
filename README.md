@@ -9,6 +9,6 @@
   
 ## Skills & Tools I enjoy using 🧰
 
-<image src="![figma-original](https://github.com/user-attachments/assets/13e2b60d-af21-497a-9cbc-512f67c34e4c)">
+<image src="![figma-original](https://github.com/user-attachments/assets/13e2b60d-af21-497a-9cbc-512f67c34e4c)" width="50">
 
 
