@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a messaging mobile application
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA <image src="https://github.com/user-attachments/assets/71040a04-276a-4306-a69f-63b9695b0c65" width="25" height="25">📚🎓🧠
 - 👯 I’m looking to collaborate on open-source projects, hackathons, or building innovative applications.
 - 💬 Ask me about Flutter development, React.js, building real-time applications, or my experiences with AWS and Firebase.
 - 📫 How to reach me: https://www.linkedin.com/in/mphomanaka/ or Mphojmanaka@gmail.com
@@ -34,11 +34,6 @@
   <image src="https://github.com/user-attachments/assets/5455c34a-f65c-4b0c-8002-c95652e48af2" width="50" height="50">
   <image src="https://github.com/user-attachments/assets/f375646a-e8c2-47bf-8a5e-b2a83cb33ccf" width="50" height="50">
 </div>
-
-## Learning <image src="https://github.com/user-attachments/assets/71040a04-276a-4306-a69f-63b9695b0c65" width="25" height="25">📚🎓🧠 
-<image src="https://github.com/user-attachments/assets/c5ab9315-e1ee-4d4c-b476-431f39e5f3c1" width="50" height="50">
-<image src="https://github.com/user-attachments/assets/a92a90fe-a9cc-46c2-89f3-db9e234bf347" width="50" height="50">
-
 
 
 ##
