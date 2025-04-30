@@ -1,7 +1,6 @@
 ## Hello world, I'm Mpho Manaka 🐧
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Continuous+Learner)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on a messaging mobile application
 - 🌱 I’m currently learning DSA <image src="https://github.com/user-attachments/assets/71040a04-276a-4306-a69f-63b9695b0c65" width="25" height="25">📚🎓🧠
 - 👯 I’m looking to collaborate on open-source projects, hackathons, or building innovative applications.
 - 💬 Ask me about Flutter development, React.js, building real-time applications, or my experiences with AWS and Firebase.
