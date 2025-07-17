@@ -32,12 +32,6 @@
 </div>
 
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🎯 Current Focus
 
 - 📚 Deep diving into **System Design** and **Scalable Architecture**
@@ -48,9 +42,7 @@
 ## 🏆 Achievements
 
 - 🎓 Completed multiple full-stack projects
-- 💻 Active contributor to open-source projects
 - 🌟 Passionate about clean code and best practices
-- 🤝 Mentoring junior developers
 
 ## 🌐 Let's Connect!
 
