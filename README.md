@@ -9,8 +9,7 @@
 ## 🚀 About Me
 
 - 👯 Open to collaborating on **open-source projects**, **hackathons**, and **innovative applications**
-- 💬 Ask me about **Flutter development**, **React.js**, **real-time applications**, **AWS**, and **Firebase**
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mphomanaka/) | [Email](mailto:Mphojmanaka@gmail.com)
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mphomanaka/)
 - ⚡ Fun fact: I love exploring new technologies and turning ideas into reality!
 
 ## 🛠️ Tech Stack
@@ -25,23 +24,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,mysql,postgresql" alt="Backend Technologies" />
 </div>
 
-### Tools & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,figma" alt="Tools and Cloud" />
-</div>
-
-
-## 🎯 Current Focus
-
-- 📚 Deep diving into **System Design** and **Scalable Architecture**
-- 🚀 Building projects with **Microservices** and **Cloud Native** technologies
-- 🌟 Contributing to **Open Source** communities
-- 💡 Exploring **AI/ML** integration in mobile and web applications
-
-## 🏆 Achievements
-
-- 🎓 Completed multiple full-stack projects
-- 🌟 Passionate about clean code and best practices
 
 ## 🌐 Let's Connect!
 
