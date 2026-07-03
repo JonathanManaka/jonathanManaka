@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently mastering **Data Structures & Algorithms** and exploring advanced software engineering concepts
 - 👯 Open to collaborating on **open-source projects**, **hackathons**, and **innovative applications**
 - 💬 Ask me about **Flutter development**, **React.js**, **real-time applications**, **AWS**, and **Firebase**
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mphomanaka/) | [Email](mailto:Mphojmanaka@gmail.com)
